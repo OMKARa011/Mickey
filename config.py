@@ -6,7 +6,7 @@ load_dotenv()
 
 API_ID = int(getenv("API_ID", "23310068"))
 API_HASH = getenv("API_HASH", "64244e8df82d0cb1cd2938b22e2d33b6")
-BOT_TOKEN = getenv("BOT_TOKEN", "7401111425:AAGnWk6HunrC9rkhABe9RyFDA-lANvtBr50")
+BOT_TOKEN = getenv("BOT_TOKEN", "7132003441:AAF4EQ45ELwp8Ne068nw3_MXn8AR753W9-w")
 OWNER_ID = int(getenv("OWNER_ID", 5935765877))
 MONGO_URL = getenv("MONGO_URL", "mongodb+srv://kuldiprathod2003:kuldiprathod2003@cluster0.wxqpikp.mongodb.net/?retryWrites=true&w=majority")
 SUPPORT_GRP = getenv("SUPPORT_GRP", "@fenixava")
